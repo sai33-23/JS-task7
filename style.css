@@ -1,0 +1,25 @@
+body{
+    background-color:pink;
+}
+#container{
+    background-color: rgb(4, 164, 170);
+    border:5px pink;
+    height:275px;
+    width:750px;
+    margin:0 auto;
+    text-align: center;
+}
+#btn{
+    margin:50px;
+    height:70px;
+    width:250px;
+    font-size:25px;
+    background-color:rgb(117, 241, 117);
+}
+#output{
+    margin:25px;
+    font-size: 26px;
+    color:white;
+    background-color: purple;
+
+}
